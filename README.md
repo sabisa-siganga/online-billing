@@ -1,4 +1,4 @@
-# bonline-billing
+# online-billing
 
 ## Project setup
 ```
